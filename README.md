@@ -3,4 +3,4 @@ in which each player character receives a specific number of action points per t
 The player starts the game controlling only one hero, but can gain additional heroes by curing zombies.
 The objective of the game for the player is to survive as long as it takes in order to cure a sufficient number of zombies enough to build a community to survive the apocalypse.
 
-2nd Semester University Project created using java (OOP) and java FX 
+University Project created using java (OOP) and java FX for Programming II course in Spring 22' 
